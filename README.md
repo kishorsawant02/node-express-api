@@ -1,6 +1,6 @@
-# ExpressMySQL
-An Express js application with MySql database.
-# node-express-api
+#node-express-api-logger
+An Express js application with MySql database, with simple logger.
+#node-express-api-logger
 
 Steps: 
 1. run npm install
